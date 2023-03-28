@@ -1,0 +1,1 @@
+# Jigyasa-An-alternative-to-Chat-GPT
