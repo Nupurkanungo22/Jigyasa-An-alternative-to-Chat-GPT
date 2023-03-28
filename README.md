@@ -7,8 +7,8 @@
 1) cd .\jigyasaChatGPT\
 2) ls
 3) python .\manage.py runserver
-4) Click on the link: http://127.0.0.1:8000/ shown in the terminal
-5) Yayyy! You are now ready to use Jigyasa
+4) Click on the link http://127.0.0.1:8000 like this shown in the terminal
+5) Yayyy! You are now ready to use Jigyasa🥳
 
 ## Technologies Used: 
 
